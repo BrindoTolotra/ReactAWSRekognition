@@ -1,0 +1,17 @@
+.divList{
+    height: 100px;
+    width: 13em;
+    text-align: center;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.divList h1 {
+    font-size: 25px;
+    color: beige;
+}
+.divList p{
+    font-size: 15px;
+    line-height: 1;
+    color: aliceblue;
+}
